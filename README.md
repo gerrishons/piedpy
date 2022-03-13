@@ -44,7 +44,7 @@ pip install -U piedpy
 
 piedpy --help
 ```
-[![Usage](https://github.com/scalabli/piedpy/docs/images/usage.png)] (https://piedpy.rtfd.io)
+[![Usage](https://github.com/scalabli/piedpy/blob/main/docs/images/usage.png)] (https://piedpy.rtfd.io)
 
 
 ### Configuration
