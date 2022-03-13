@@ -1,3 +1,7 @@
-include *rst LICENSE CHANGELOG MANIFEST.in
-recursive-include examples *.py
-prune examples/sample?/build
+include LICENSE.txt *.md *.rst requirements-dev.txt screenshots/*
+include tasks.py .coveragerc tox.ini
+include /src/piedpy/piedpyrc
+recursive-include test *.cnf
+recursive-include test *.feature
+recursive-include test *.py
+recursive-include test *.txt
