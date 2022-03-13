@@ -1,16 +1,9 @@
 [![Downloads](https://pepy.tech/badge/piedpy)](https://pepy.tech/project/piedpy)
 [![PyPI version](https://badge.fury.io/py/piedpy.svg)](https://badge.fury.io/py/piedpy)
 [![Wheel](https://img.shields.io/pypi/wheel/piedpy.svg)](https://pypi.com/project/piedpy)
-[![Windows Build Status](https://img.shields.io/appveyor/build/gerrishons/piedpy/main?logo=appveyor&cacheSeconds=600)](https://ci.appveyor.com/project/gerrishons/piedpy)
 [![pyimp](https://img.shields.io/pypi/implementation/piedpy.svg)](https://pypi.com/project/piedpy)
 [![RTD](https://readthedocs.org/projects/piedpy/badge/)](https://piedpy.readthedocs.io)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5848515.svg)](https://doi.org/10.5281/zenodo.5848515)
-[![licence](https://img.shields.io/pypi/l/piedpy.svg)](https://opensource.org/licenses/MIT)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gerrishon_s.svg?style=social)](https://twitter.com/gerrishon_s)
-
-
-[![Logo](https://raw.githubusercontent.com/scalabli/quo/master/pics/quo.png)](https://github.com/scalabli/quo)
-
 
 `Forever Scalable`
 
@@ -51,7 +44,7 @@ pip install -U piedpy
 
 piedpy --help
 ```
-[![Usage](https://github.com/scalabli/docs/images/usage.png)] (https://piedpy.trfd.io)
+[![Usage](https://github.com/scalabli/piedpy/docs/images/usage.png)] (https://piedpy.rtfd.io)
 
 
 ### Configuration
