@@ -55,7 +55,7 @@ our documentation](https://piedpy.rtfd.io).
 ## Donate🎁
 
 In order to for us to maintain this project and grow our community of contributors.
-[Donate](https://ko-fi/scalabli)
+[Donate](https://ko-fi.com/scalabli)
 
 ## Getting Help
 
